@@ -8,10 +8,10 @@ const Footer = () => (
       <div className="mb-3">
         <a href="https://github.com/yourprofile" target="_blank" rel="noreferrer"><FaGithub /></a>
         <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-        <a href="https://wa.me/2348012345678" target="_blank" rel="noreferrer"><FaWhatsapp /></a>
-        <a href="mailto:youremail@example.com"><FaEnvelope /></a>
+        <a href="https://wa.me/2349052356667" target="_blank" rel="noreferrer"><FaWhatsapp /></a>
+        <a href="aeronsosezua@gmail.com"><FaEnvelope /></a>
       </div>
-      <p>&copy; {new Date().getFullYear()} Your Name. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} Aeron Osezua. All rights reserved.</p>
     </div>
   </footer>
 );

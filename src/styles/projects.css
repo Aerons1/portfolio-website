@@ -13,6 +13,9 @@
   position: relative;
   letter-spacing: 1px;
   text-transform: uppercase;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .projects-section h2::after {
@@ -24,4 +27,11 @@
   margin: 14px auto 0;
   border-radius: 2px;
   opacity: 0.85;
+}
+
+.card-img-top {
+  height: 200px;               /* Fixed height for uniform size */
+  object-fit: cover;           /* Crop while maintaining aspect ratio */
+  border-bottom: 1px solid #dee2e6;
+  border-radius: 0.3rem 0.3rem 0 0;
 }

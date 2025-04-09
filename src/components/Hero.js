@@ -16,6 +16,7 @@ const Hero = () => (
         transition={{ duration: 1 }}
       />
       <div className="text-center text-lg-start ms-lg-5">
+
         <h1 className="fw-bold">Moses Aeron Osezua</h1>
         <Typical
           steps={['Full-Stack Web Developer', 2000, 'Mobile App Developer', 2000, 'Software Engineer', 2000]}
@@ -24,7 +25,7 @@ const Hero = () => (
           className="typing-text"
         />
         <p className="lead mt-3">
-        Hi, I’m a Highly Motivated and A Very Passionate Full-Stack Web & Mobile App Developer, Crafting Exceptional And Innovative Digital Applications and Experience, With A Strong Foundation In Modern Web And Mobile Technologies. I specialize in building Fast, Scalable, and user-centric applications that solve real-world problems. From sleek, responsive websites to high-performance mobile apps, my mission is to merge beautiful design with seamless functionality.
+        Hi, I’m a Highly Motivated and A Very Passionate Full-Stack Web & Mobile App Developer, Crafting Exceptional And Innovative Digital Applications and Experience, With A Strong Foundation In Modern Web And Mobile Technologies. I specialize in building Fast, Scalable, and user-centric applications that solve real-world problems. From sleek, responsive websites to high-performance mobile apps.
 
 I bring ideas to life through clean code, intuitive UI/UX, and a deep understanding of Full-Stack Development. Whether you're a startup looking to launch your MVP, a business aiming to scale digitally, or someone with a bold vision—I’m here to transform your ideas, concepts into impactful products.
 

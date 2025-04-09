@@ -1,29 +1,32 @@
 import React from 'react';
 import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 import '../styles/projects.css';
-import projectImg from '../assets/portfolio-preview.jpeg'; // Use unique images if available
+// Use unique images if available
+import portfolioImg from '../assets/portfolioimage.jpg';
+import ecommerceImg from '../assets/portfolio-preview.jpeg';
+import quizImg from '../assets/quizimage.jpg';
 
 const projects = [
   {
     title: 'Portfolio Website',
     description: 'A responsive portfolio for showcasing development work with animations and modern UI.',
-    image: projectImg,
-    live: 'https://your-live-demo-link.com',
-    github: 'https://github.com/yourusername/portfolio',
+    image: portfolioImg,
+    live: 'https://portfolio-website-self-tau-36.vercel.app/',
+    github: 'https://github.com/Aerons1/portfolio-website',
   },
   {
     title: 'E-Commerce App',
     description: 'A sleek mobile-friendly e-commerce platform with guest checkout and Paystack integration.',
-    image: projectImg,
+    image: ecommerceImg,
     live: 'https://your-ecommerce-demo.com',
     github: 'https://github.com/yourusername/ecommerce',
   },
   {
     title: 'Quiz App',
     description: 'An interactive quiz app with swipe gestures, tap-to-reveal, and mobile-friendly UI built with Vue.js.',
-    image: projectImg, // Replace with an actual image if you have one
-    live: 'https://your-quiz-app-demo.com',
-    github: 'https://github.com/yourusername/quiz-app',
+    image: quizImg, // Replace with an actual image if you have one
+    live: 'https://quiz-app-xi-amber.vercel.app/',
+    github: 'https://github.com/Aerons1/quiz-app',
   },
 ];
 
