@@ -25,7 +25,7 @@ const Hero = () => (
           className="typing-text"
         />
         <p className="lead mt-3">
-        Hi, I’m a Highly Motivated and A Very Passionate Full-Stack Web & Mobile App Developer, Crafting Exceptional And Innovative Digital Applications and Experience, With A Strong Foundation In Modern Web And Mobile Technologies. I specialize in building Fast, Scalable, and user-centric applications that solve real-world problems. From sleek, responsive websites to high-performance mobile apps.
+        Hi, I’m a Highly Motivated and Passionate Full-Stack Web & Mobile App Developer, Crafting Exceptional And Innovative Digital Applications and Experience, With A Strong Foundation In Modern Web And Mobile Technologies. I specialize in building Fast, Scalable, and user-centric applications that solve real-world problems. From sleek, responsive websites to high-performance mobile apps.
 
 I bring ideas to life through clean code, intuitive UI/UX, and a deep understanding of Full-Stack Development. Whether you're a startup looking to launch your MVP, a business aiming to scale digitally, or someone with a bold vision—I’m here to transform your ideas, concepts into impactful products.
 
